@@ -1,0 +1,14 @@
+E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\faceDeDes\faceDeDes\bin\Debug\net8.0\faceDeDes.exe
+E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\faceDeDes\faceDeDes\bin\Debug\net8.0\faceDeDes.deps.json
+E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\faceDeDes\faceDeDes\bin\Debug\net8.0\faceDeDes.runtimeconfig.json
+E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\faceDeDes\faceDeDes\bin\Debug\net8.0\faceDeDes.dll
+E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\faceDeDes\faceDeDes\bin\Debug\net8.0\faceDeDes.pdb
+E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\faceDeDes\faceDeDes\obj\Debug\net8.0\faceDeDes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\faceDeDes\faceDeDes\obj\Debug\net8.0\faceDeDes.AssemblyInfoInputs.cache
+E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\faceDeDes\faceDeDes\obj\Debug\net8.0\faceDeDes.AssemblyInfo.cs
+E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\faceDeDes\faceDeDes\obj\Debug\net8.0\faceDeDes.csproj.CoreCompileInputs.cache
+E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\faceDeDes\faceDeDes\obj\Debug\net8.0\faceDeDes.dll
+E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\faceDeDes\faceDeDes\obj\Debug\net8.0\refint\faceDeDes.dll
+E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\faceDeDes\faceDeDes\obj\Debug\net8.0\faceDeDes.pdb
+E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\faceDeDes\faceDeDes\obj\Debug\net8.0\faceDeDes.genruntimeconfig.cache
+E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\faceDeDes\faceDeDes\obj\Debug\net8.0\ref\faceDeDes.dll
