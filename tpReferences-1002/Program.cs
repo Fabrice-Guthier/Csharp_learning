@@ -17,18 +17,22 @@ namespace tpReferences_1002
             int hours = 0;
             int minutes = 0;
             int timeInSeconds = 16132;
+            int secondesRestantes = 0;
 
-            TimeConversion(ref hours, ref minutes, timeInSeconds);
+            secondesRestantes = TimeConversion(ref hours, ref minutes, timeInSeconds);
+
+            Console.WriteLine(hours + "h " + minutes + "min " + secondesRestantes + "sec");
 
             Console.ReadLine();   
         }
 
-        static void TimeConversion(ref int h, ref int min, int sec)
+        static int TimeConversion(ref int h, ref int min, int sec)
         {
             h = sec / 3600;
             min = (sec % 3600) / 60;
-            sec = sec % 60;
-            Console.WriteLine(h + "h " + min + "min " + sec + "sec");
+            sec %= 60;
+            //Console.WriteLine(h + "h " + min + "min " + sec + "sec");
+            return sec;
         }
     }
 }
