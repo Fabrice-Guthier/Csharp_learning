@@ -18,30 +18,6 @@ namespace tpBougies
             //Si maintenant on commence avec 9 bougies, on pourra en fabriquer 3 et avoir 12 bougies...
             //Trouver l'algorithme correspondant.
 
-
-            // premiere tentative avec boucles if/for
-
-            //Console.WriteLine("Saisissez une quantité de bougies : ");
-            //string inputQuantity = Console.ReadLine();
-            //int candleQuantity = int.Parse(inputQuantity);
-            //int candleRest = 0;
-            //int newCandleQuantity = candleQuantity;
-
-            //for (int i = 0; i <= (candleQuantity + candleQuantity / 3 - 1); i++)
-            //{
-            //    if (i % 3 == 0)
-            //    {
-            //        candleRest++;
-            //        newCandleQuantity = candleQuantity + candleRest;
-            //    }
-            //}
-
-            //Console.WriteLine("On peut avoir un total de " + newCandleQuantity);
-            //Console.ReadLine();
-
-
-            // deuxieme tentative avec boucle while
-
             Console.WriteLine("Saisissez une quantité de bougies : ");
             int candleQuantity = int.Parse(Console.ReadLine());
 
@@ -50,11 +26,13 @@ namespace tpBougies
 
             while (candleQuantity > 0)
             {
+                // on compte
                 totalCandlesUsed += candleQuantity;
+                // on brule
                 candleRest += candleQuantity;
-
+                // on refabrique
                 candleQuantity = candleRest / 3;
-                candleRest = candleRest % 3;
+                candleRest %= 3;
             }
 
             Console.WriteLine("On peut avoir un total de " + totalCandlesUsed);

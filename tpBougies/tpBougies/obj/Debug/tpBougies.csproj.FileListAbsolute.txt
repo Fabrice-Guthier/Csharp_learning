@@ -12,3 +12,10 @@ E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\tpBougies\tpBougies\obj\D
 E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\tpBougies\tpBougies\obj\Debug\tpBougies.csproj.CoreCompileInputs.cache
 E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\tpBougies\tpBougies\obj\Debug\tpBougies.exe
 E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\tpBougies\tpBougies\obj\Debug\tpBougies.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpBougies\tpBougies\bin\Debug\tpBougies.exe.config
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpBougies\tpBougies\bin\Debug\tpBougies.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpBougies\tpBougies\bin\Debug\tpBougies.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpBougies\tpBougies\obj\Debug\tpBougies.csproj.AssemblyReference.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpBougies\tpBougies\obj\Debug\tpBougies.csproj.CoreCompileInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpBougies\tpBougies\obj\Debug\tpBougies.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpBougies\tpBougies\obj\Debug\tpBougies.pdb
