@@ -1,0 +1,7 @@
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCryptageCaracteres-1002\obj\Debug\tpCryptageCaracteres-1002.csproj.AssemblyReference.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCryptageCaracteres-1002\obj\Debug\tpCryptageCaracteres-1002.csproj.CoreCompileInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCryptageCaracteres-1002\bin\Debug\tpCryptageCaracteres-1002.exe.config
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCryptageCaracteres-1002\bin\Debug\tpCryptageCaracteres-1002.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCryptageCaracteres-1002\bin\Debug\tpCryptageCaracteres-1002.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCryptageCaracteres-1002\obj\Debug\tpCryptageCaracteres-1002.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCryptageCaracteres-1002\obj\Debug\tpCryptageCaracteres-1002.pdb
