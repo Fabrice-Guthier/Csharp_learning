@@ -14,11 +14,24 @@ namespace tpReferenceLV2_1002
             // Niveau 1 : Faire une fonction qui parcourt une chaîne de caractère pour compter le nombre d'espaces à l'intérieur (n'oubliez pas que les string sont des tableaux de char)
             string phrase = "Tes yeux d'un bleu d'azur, tes cheveux en cascade, ton âme et coeur si pur, je vais prendre une petite salade.";
 
-            string[] espaces = phrase.Split(' ');
+            
+            Console.WriteLine("Dans cette phrase, il y a " + CompterEspaces(phrase, ' ') + " espaces.");
 
-            int comptageEspaces = espaces.Count();
-
-            Console.WriteLine("Dans cette phrase, il y a " + comptageEspaces + " espaces.");
+            Console.ReadLine();
         }
+
+        public static int CompterEspaces( string texteAParcourir, char caractereATrouver)
+        {
+            int aRenvoyer = 0;
+
+            foreach( char caractere in texteAParcourir)
+            {
+                if (caractere == caractereATrouver)
+                    aRenvoyer++;
+            }
+
+            return aRenvoyer;
+        }
+
     }
 }
