@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace tp_POO_Genericite_1902
 {
@@ -11,13 +12,13 @@ namespace tp_POO_Genericite_1902
         private Random rand = new Random();
         private int index = 0;
 
-        protected override T Get()
+        public override T Get()
         {
             index = RandomNumber(elements);
             return elements[index];
         }
 
-        protected override T GetAndRemove()
+        public override T GetAndRemove()
         {
             index = RandomNumber(elements);
             element = elements[index];
@@ -27,7 +28,7 @@ namespace tp_POO_Genericite_1902
             return element;
         }
 
-        protected override void Remove()
+        public override void Remove()
         {
             index = RandomNumber(elements);
             elements.RemoveAt(index);

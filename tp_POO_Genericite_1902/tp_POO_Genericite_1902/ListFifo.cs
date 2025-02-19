@@ -3,17 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace tp_POO_Genericite_1902
 {
     class ListFifo<T>: MainList<T>
     {
-        protected override T Get()
+        public override T Get()
         {
             return elements[0];
         }
 
-        protected override T GetAndRemove()
+        public override T GetAndRemove()
         {
             element = elements[0];
 
@@ -22,7 +23,7 @@ namespace tp_POO_Genericite_1902
             return element;
         }
 
-        protected override void Remove()
+        public override void Remove()
         {
             elements.RemoveAt(0);
         }

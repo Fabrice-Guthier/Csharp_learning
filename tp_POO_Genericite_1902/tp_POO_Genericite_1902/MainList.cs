@@ -11,15 +11,15 @@ namespace tp_POO_Genericite_1902
         protected List<T> elements = new List<T>();
         protected T element;
 
-        protected void Add(T element)
+        public void Add(T element)
         {
             elements.Add(element);
         }
 
-        protected abstract T Get();
+        public abstract T Get();
 
-        protected abstract void Remove();
+        public abstract void Remove();
 
-        protected abstract T GetAndRemove();
+        public abstract T GetAndRemove();
     }
 }

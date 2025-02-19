@@ -9,10 +9,14 @@ namespace tp_POO_Genericite_1902
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            
+
+            ListFifo<int> test = new ListFifo<int>();
+
+            test.Add(3);
         }
+        
 
         public void MethodeGenerique<T>(List<T> myList)
         {
