@@ -1,9 +1,0 @@
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpConversionRomaine-0602\obj\Debug\tpConversionRomaine-0602.csproj.AssemblyReference.cache
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpConversionRomaine-0602\obj\Debug\tpConversionRomaine-0602.csproj.CoreCompileInputs.cache
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 1 - les bases\tpConversionRomaine-0602\obj\Debug\tpConversionRomaine-0602.csproj.AssemblyReference.cache
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 1 - les bases\tpConversionRomaine-0602\obj\Debug\tpConversionRomaine-0602.csproj.CoreCompileInputs.cache
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 1 - les bases\tpConversionRomaine-0602\bin\Debug\tpConversionRomaine-0602.exe.config
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 1 - les bases\tpConversionRomaine-0602\bin\Debug\tpConversionRomaine-0602.exe
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 1 - les bases\tpConversionRomaine-0602\bin\Debug\tpConversionRomaine-0602.pdb
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 1 - les bases\tpConversionRomaine-0602\obj\Debug\tpConversionRomaine-0602.exe
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 1 - les bases\tpConversionRomaine-0602\obj\Debug\tpConversionRomaine-0602.pdb
