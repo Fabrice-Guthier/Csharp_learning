@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO_Netflux_1802\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B93C124-0228-68B2-319A-C5DAD972CB1F}|tpPOO_Netflux_1802.csproj|c:\\users\\perpa\\documents\\mns\\cours\\cda\\c#\\code\\chapitre 2 - poo\\tppoo_netflux_1802\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B93C124-0228-68B2-319A-C5DAD972CB1F}|tpPOO_Netflux_1802.csproj|solutionrelative:movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B93C124-0228-68B2-319A-C5DAD972CB1F}|tpPOO_Netflux_1802.csproj|c:\\users\\perpa\\documents\\mns\\cours\\cda\\c#\\code\\chapitre 2 - poo\\tppoo_netflux_1802\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B93C124-0228-68B2-319A-C5DAD972CB1F}|tpPOO_Netflux_1802.csproj|solutionrelative:content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B93C124-0228-68B2-319A-C5DAD972CB1F}|tpPOO_Netflux_1802.csproj|c:\\users\\perpa\\documents\\mns\\cours\\cda\\c#\\code\\chapitre 2 - poo\\tppoo_netflux_1802\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B93C124-0228-68B2-319A-C5DAD972CB1F}|tpPOO_Netflux_1802.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B93C124-0228-68B2-319A-C5DAD972CB1F}|tpPOO_Netflux_1802.csproj|c:\\users\\perpa\\documents\\mns\\cours\\cda\\c#\\code\\chapitre 2 - poo\\tppoo_netflux_1802\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B93C124-0228-68B2-319A-C5DAD972CB1F}|tpPOO_Netflux_1802.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B93C124-0228-68B2-319A-C5DAD972CB1F}|tpPOO_Netflux_1802.csproj|c:\\users\\perpa\\documents\\mns\\cours\\cda\\c#\\code\\chapitre 2 - poo\\tppoo_netflux_1802\\tvshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B93C124-0228-68B2-319A-C5DAD972CB1F}|tpPOO_Netflux_1802.csproj|solutionrelative:tvshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B93C124-0228-68B2-319A-C5DAD972CB1F}|tpPOO_Netflux_1802.csproj|c:\\users\\perpa\\documents\\mns\\cours\\cda\\c#\\code\\chapitre 2 - poo\\tppoo_netflux_1802\\iselectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B93C124-0228-68B2-319A-C5DAD972CB1F}|tpPOO_Netflux_1802.csproj|solutionrelative:iselectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B93C124-0228-68B2-319A-C5DAD972CB1F}|tpPOO_Netflux_1802.csproj|c:\\users\\perpa\\documents\\mns\\cours\\cda\\c#\\code\\chapitre 2 - poo\\tppoo_netflux_1802\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B93C124-0228-68B2-319A-C5DAD972CB1F}|tpPOO_Netflux_1802.csproj|solutionrelative:episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B93C124-0228-68B2-319A-C5DAD972CB1F}|tpPOO_Netflux_1802.csproj|c:\\users\\perpa\\documents\\mns\\cours\\cda\\c#\\code\\chapitre 2 - poo\\tppoo_netflux_1802\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B93C124-0228-68B2-319A-C5DAD972CB1F}|tpPOO_Netflux_1802.csproj|solutionrelative:genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO_Netflux_1802\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO_Netflux_1802\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:24:15.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO_Netflux_1802\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO_Netflux_1802\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:41:58.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TvShow.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO_Netflux_1802\\TvShow.cs",
+              "RelativeDocumentMoniker": "TvShow.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO_Netflux_1802\\TvShow.cs",
+              "RelativeToolTip": "TvShow.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:41:57.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO_Netflux_1802\\Movie.cs",
+              "RelativeDocumentMoniker": "Movie.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO_Netflux_1802\\Movie.cs",
+              "RelativeToolTip": "Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:41:55.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISelectable.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO_Netflux_1802\\ISelectable.cs",
+              "RelativeDocumentMoniker": "ISelectable.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO_Netflux_1802\\ISelectable.cs",
+              "RelativeToolTip": "ISelectable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:41:54.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO_Netflux_1802\\Genre.cs",
+              "RelativeDocumentMoniker": "Genre.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO_Netflux_1802\\Genre.cs",
+              "RelativeToolTip": "Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:41:54.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Episode.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO_Netflux_1802\\Episode.cs",
+              "RelativeDocumentMoniker": "Episode.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO_Netflux_1802\\Episode.cs",
+              "RelativeToolTip": "Episode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:41:53.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Content.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO_Netflux_1802\\Content.cs",
+              "RelativeDocumentMoniker": "Content.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO_Netflux_1802\\Content.cs",
+              "RelativeToolTip": "Content.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:41:51.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCours0302\tpCours0302\obj\Debug\tpCours0302.csproj.AssemblyReference.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCours0302\tpCours0302\obj\Debug\tpCours0302.csproj.CoreCompileInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCours0302\tpCours0302\bin\Debug\tpCours0302.exe.config
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCours0302\tpCours0302\bin\Debug\tpCours0302.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCours0302\tpCours0302\bin\Debug\tpCours0302.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCours0302\tpCours0302\obj\Debug\tpCours0302.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCours0302\tpCours0302\obj\Debug\tpCours0302.pdb

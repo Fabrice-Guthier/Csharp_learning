@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Documents\\Perpaynes\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\faceDeDes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2870F04C-C78D-4814-9EFB-0BD1BF513B23}|faceDeDes\\faceDeDes.csproj|e:\\documents\\perpaynes\\documents\\mns\\cours\\cda\\c#\\code\\facededes\\facededes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2870F04C-C78D-4814-9EFB-0BD1BF513B23}|faceDeDes\\faceDeDes.csproj|solutionrelative:facededes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Documents\\Perpaynes\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\faceDeDes\\faceDeDes\\Program.cs",
+              "RelativeDocumentMoniker": "faceDeDes\\Program.cs",
+              "ToolTip": "E:\\Documents\\Perpaynes\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\faceDeDes\\faceDeDes\\Program.cs",
+              "RelativeToolTip": "faceDeDes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:31:39.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

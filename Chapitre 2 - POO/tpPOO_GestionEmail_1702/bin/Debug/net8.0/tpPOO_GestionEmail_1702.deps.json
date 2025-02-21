@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tpPOO_GestionEmail_1702/1.0.0": {
+        "runtime": {
+          "tpPOO_GestionEmail_1702.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tpPOO_GestionEmail_1702/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

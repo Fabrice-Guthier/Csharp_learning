@@ -1,0 +1,14 @@
+C:\Users\perpa\source\repos\tp_POO_Genericite_1902\tp_POO_Genericite_1902\obj\Debug\tp_POO_Genericite_1902.csproj.AssemblyReference.cache
+C:\Users\perpa\source\repos\tp_POO_Genericite_1902\tp_POO_Genericite_1902\obj\Debug\tp_POO_Genericite_1902.csproj.CoreCompileInputs.cache
+C:\Users\perpa\source\repos\tp_POO_Genericite_1902\tp_POO_Genericite_1902\bin\Debug\tp_POO_Genericite_1902.exe.config
+C:\Users\perpa\source\repos\tp_POO_Genericite_1902\tp_POO_Genericite_1902\bin\Debug\tp_POO_Genericite_1902.exe
+C:\Users\perpa\source\repos\tp_POO_Genericite_1902\tp_POO_Genericite_1902\bin\Debug\tp_POO_Genericite_1902.pdb
+C:\Users\perpa\source\repos\tp_POO_Genericite_1902\tp_POO_Genericite_1902\obj\Debug\tp_POO_Genericite_1902.exe
+C:\Users\perpa\source\repos\tp_POO_Genericite_1902\tp_POO_Genericite_1902\obj\Debug\tp_POO_Genericite_1902.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tp_POO_Genericite_1902\tp_POO_Genericite_1902\bin\Debug\tp_POO_Genericite_1902.exe.config
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tp_POO_Genericite_1902\tp_POO_Genericite_1902\bin\Debug\tp_POO_Genericite_1902.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tp_POO_Genericite_1902\tp_POO_Genericite_1902\bin\Debug\tp_POO_Genericite_1902.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tp_POO_Genericite_1902\tp_POO_Genericite_1902\obj\Debug\tp_POO_Genericite_1902.csproj.AssemblyReference.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tp_POO_Genericite_1902\tp_POO_Genericite_1902\obj\Debug\tp_POO_Genericite_1902.csproj.CoreCompileInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tp_POO_Genericite_1902\tp_POO_Genericite_1902\obj\Debug\tp_POO_Genericite_1902.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tp_POO_Genericite_1902\tp_POO_Genericite_1902\obj\Debug\tp_POO_Genericite_1902.pdb

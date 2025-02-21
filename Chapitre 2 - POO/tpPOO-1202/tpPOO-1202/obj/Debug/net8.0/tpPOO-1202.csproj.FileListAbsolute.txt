@@ -1,0 +1,30 @@
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\tpPOO-1202.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\tpPOO-1202.AssemblyInfoInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\tpPOO-1202.AssemblyInfo.cs
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\tpPOO-1202.csproj.CoreCompileInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\tpPOO-1202.sourcelink.json
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-1202\tpPOO-1202\bin\Debug\net8.0\tpPOO-1202.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-1202\tpPOO-1202\bin\Debug\net8.0\tpPOO-1202.deps.json
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-1202\tpPOO-1202\bin\Debug\net8.0\tpPOO-1202.runtimeconfig.json
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-1202\tpPOO-1202\bin\Debug\net8.0\tpPOO-1202.dll
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-1202\tpPOO-1202\bin\Debug\net8.0\tpPOO-1202.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\tpPOO-1202.dll
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\refint\tpPOO-1202.dll
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\tpPOO-1202.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\tpPOO-1202.genruntimeconfig.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\ref\tpPOO-1202.dll
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\tpPOO-1202.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\tpPOO-1202.AssemblyInfoInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\tpPOO-1202.AssemblyInfo.cs
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\tpPOO-1202.csproj.CoreCompileInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\tpPOO-1202.sourcelink.json
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\tpPOO-1202.dll
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\refint\tpPOO-1202.dll
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\tpPOO-1202.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tpPOO-1202\tpPOO-1202\bin\Debug\net8.0\tpPOO-1202.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tpPOO-1202\tpPOO-1202\bin\Debug\net8.0\tpPOO-1202.deps.json
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tpPOO-1202\tpPOO-1202\bin\Debug\net8.0\tpPOO-1202.runtimeconfig.json
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tpPOO-1202\tpPOO-1202\bin\Debug\net8.0\tpPOO-1202.dll
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tpPOO-1202\tpPOO-1202\bin\Debug\net8.0\tpPOO-1202.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\tpPOO-1202.genruntimeconfig.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\Chapitre 2 - POO\tpPOO-1202\tpPOO-1202\obj\Debug\net8.0\ref\tpPOO-1202.dll

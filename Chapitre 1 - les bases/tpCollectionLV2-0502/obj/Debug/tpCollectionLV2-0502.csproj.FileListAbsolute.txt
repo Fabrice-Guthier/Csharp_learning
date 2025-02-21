@@ -1,0 +1,7 @@
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCollectionLV2-0502\bin\Debug\tpCollectionLV2-0502.exe.config
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCollectionLV2-0502\bin\Debug\tpCollectionLV2-0502.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCollectionLV2-0502\bin\Debug\tpCollectionLV2-0502.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCollectionLV2-0502\obj\Debug\tpCollectionLV2-0502.csproj.AssemblyReference.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCollectionLV2-0502\obj\Debug\tpCollectionLV2-0502.csproj.CoreCompileInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCollectionLV2-0502\obj\Debug\tpCollectionLV2-0502.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpCollectionLV2-0502\obj\Debug\tpCollectionLV2-0502.pdb

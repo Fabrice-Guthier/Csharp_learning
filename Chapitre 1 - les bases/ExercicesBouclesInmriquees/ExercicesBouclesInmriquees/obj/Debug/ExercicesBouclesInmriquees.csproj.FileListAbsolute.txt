@@ -1,0 +1,14 @@
+C:\Users\perpa\source\repos\ExercicesBouclesInmriquees\ExercicesBouclesInmriquees\bin\Debug\ExercicesBouclesInmriquees.exe.config
+C:\Users\perpa\source\repos\ExercicesBouclesInmriquees\ExercicesBouclesInmriquees\bin\Debug\ExercicesBouclesInmriquees.exe
+C:\Users\perpa\source\repos\ExercicesBouclesInmriquees\ExercicesBouclesInmriquees\bin\Debug\ExercicesBouclesInmriquees.pdb
+C:\Users\perpa\source\repos\ExercicesBouclesInmriquees\ExercicesBouclesInmriquees\obj\Debug\ExercicesBouclesInmriquees.csproj.AssemblyReference.cache
+C:\Users\perpa\source\repos\ExercicesBouclesInmriquees\ExercicesBouclesInmriquees\obj\Debug\ExercicesBouclesInmriquees.csproj.CoreCompileInputs.cache
+C:\Users\perpa\source\repos\ExercicesBouclesInmriquees\ExercicesBouclesInmriquees\obj\Debug\ExercicesBouclesInmriquees.exe
+C:\Users\perpa\source\repos\ExercicesBouclesInmriquees\ExercicesBouclesInmriquees\obj\Debug\ExercicesBouclesInmriquees.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\ExercicesBouclesInmriquees\ExercicesBouclesInmriquees\bin\Debug\ExercicesBouclesInmriquees.exe.config
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\ExercicesBouclesInmriquees\ExercicesBouclesInmriquees\bin\Debug\ExercicesBouclesInmriquees.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\ExercicesBouclesInmriquees\ExercicesBouclesInmriquees\bin\Debug\ExercicesBouclesInmriquees.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\ExercicesBouclesInmriquees\ExercicesBouclesInmriquees\obj\Debug\ExercicesBouclesInmriquees.csproj.AssemblyReference.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\ExercicesBouclesInmriquees\ExercicesBouclesInmriquees\obj\Debug\ExercicesBouclesInmriquees.csproj.CoreCompileInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\ExercicesBouclesInmriquees\ExercicesBouclesInmriquees\obj\Debug\ExercicesBouclesInmriquees.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\ExercicesBouclesInmriquees\ExercicesBouclesInmriquees\obj\Debug\ExercicesBouclesInmriquees.pdb

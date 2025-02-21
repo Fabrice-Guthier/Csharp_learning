@@ -1,0 +1,7 @@
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\projetCours2\projetCours2\obj\Debug\projetCours2.csproj.AssemblyReference.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\projetCours2\projetCours2\obj\Debug\projetCours2.csproj.CoreCompileInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\projetCours2\projetCours2\bin\Debug\projetCours2.exe.config
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\projetCours2\projetCours2\bin\Debug\projetCours2.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\projetCours2\projetCours2\bin\Debug\projetCours2.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\projetCours2\projetCours2\obj\Debug\projetCours2.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\projetCours2\projetCours2\obj\Debug\projetCours2.pdb

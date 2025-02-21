@@ -1,0 +1,15 @@
+C:\Users\ynoht\Documents\VisualStudioProjects\CDA\CDA\bin\Debug\net6.0\CDA.exe
+C:\Users\ynoht\Documents\VisualStudioProjects\CDA\CDA\bin\Debug\net6.0\CDA.deps.json
+C:\Users\ynoht\Documents\VisualStudioProjects\CDA\CDA\bin\Debug\net6.0\CDA.runtimeconfig.json
+C:\Users\ynoht\Documents\VisualStudioProjects\CDA\CDA\bin\Debug\net6.0\CDA.dll
+C:\Users\ynoht\Documents\VisualStudioProjects\CDA\CDA\bin\Debug\net6.0\ref\CDA.dll
+C:\Users\ynoht\Documents\VisualStudioProjects\CDA\CDA\bin\Debug\net6.0\CDA.pdb
+C:\Users\ynoht\Documents\VisualStudioProjects\CDA\CDA\obj\Debug\net6.0\CDA.csproj.AssemblyReference.cache
+C:\Users\ynoht\Documents\VisualStudioProjects\CDA\CDA\obj\Debug\net6.0\CDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynoht\Documents\VisualStudioProjects\CDA\CDA\obj\Debug\net6.0\CDA.AssemblyInfoInputs.cache
+C:\Users\ynoht\Documents\VisualStudioProjects\CDA\CDA\obj\Debug\net6.0\CDA.AssemblyInfo.cs
+C:\Users\ynoht\Documents\VisualStudioProjects\CDA\CDA\obj\Debug\net6.0\CDA.csproj.CoreCompileInputs.cache
+C:\Users\ynoht\Documents\VisualStudioProjects\CDA\CDA\obj\Debug\net6.0\CDA.dll
+C:\Users\ynoht\Documents\VisualStudioProjects\CDA\CDA\obj\Debug\net6.0\ref\CDA.dll
+C:\Users\ynoht\Documents\VisualStudioProjects\CDA\CDA\obj\Debug\net6.0\CDA.pdb
+C:\Users\ynoht\Documents\VisualStudioProjects\CDA\CDA\obj\Debug\net6.0\CDA.genruntimeconfig.cache

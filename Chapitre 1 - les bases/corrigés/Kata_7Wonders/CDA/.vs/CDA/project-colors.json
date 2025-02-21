@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84b993f0-e959-415c-b834-d7891fbad455": {
+      "ProjectGuid": "84b993f0-e959-415c-b834-d7891fbad455",
+      "DisplayName": "CDA",
+      "ColorIndex": 0
+    },
+    "83f4372a-3de8-4eff-9d29-9f53d4824bd7": {
+      "ProjectGuid": "83f4372a-3de8-4eff-9d29-9f53d4824bd7",
+      "DisplayName": "CPI_DEV",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

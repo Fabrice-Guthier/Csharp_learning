@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tpPOO-FootballTeam-1302/1.0.0": {
+        "runtime": {
+          "tpPOO-FootballTeam-1302.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tpPOO-FootballTeam-1302/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

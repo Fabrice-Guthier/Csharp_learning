@@ -1,0 +1,7 @@
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpBowlingTest\bin\Debug\tpBowlingTest.exe.config
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpBowlingTest\bin\Debug\tpBowlingTest.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpBowlingTest\bin\Debug\tpBowlingTest.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpBowlingTest\obj\Debug\tpBowlingTest.csproj.AssemblyReference.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpBowlingTest\obj\Debug\tpBowlingTest.csproj.CoreCompileInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpBowlingTest\obj\Debug\tpBowlingTest.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpBowlingTest\obj\Debug\tpBowlingTest.pdb

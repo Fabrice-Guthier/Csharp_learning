@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO-1202\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE9B17E-541E-41F0-9A46-847EE06425A8}|tpPOO-1202\\tpPOO-1202.csproj|c:\\users\\perpa\\documents\\mns\\cours\\cda\\c#\\code\\chapitre 2 - poo\\tppoo-1202\\tppoo-1202\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE9B17E-541E-41F0-9A46-847EE06425A8}|tpPOO-1202\\tpPOO-1202.csproj|solutionrelative:tppoo-1202\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE9B17E-541E-41F0-9A46-847EE06425A8}|tpPOO-1202\\tpPOO-1202.csproj|c:\\users\\perpa\\documents\\mns\\cours\\cda\\c#\\code\\chapitre 2 - poo\\tppoo-1202\\tppoo-1202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE9B17E-541E-41F0-9A46-847EE06425A8}|tpPOO-1202\\tpPOO-1202.csproj|solutionrelative:tppoo-1202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO-1202\\tpPOO-1202\\Program.cs",
+              "RelativeDocumentMoniker": "tpPOO-1202\\Program.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO-1202\\tpPOO-1202\\Program.cs",
+              "RelativeToolTip": "tpPOO-1202\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:53:00.527Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO-1202\\tpPOO-1202\\Wall.cs",
+              "RelativeDocumentMoniker": "tpPOO-1202\\Wall.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Code\\Chapitre 2 - POO\\tpPOO-1202\\tpPOO-1202\\Wall.cs",
+              "RelativeToolTip": "tpPOO-1202\\Wall.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:55:09.866Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

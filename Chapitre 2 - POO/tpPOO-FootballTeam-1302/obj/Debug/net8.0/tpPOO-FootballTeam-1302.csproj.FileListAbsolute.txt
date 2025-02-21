@@ -1,0 +1,15 @@
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-FootballTeam-1302\obj\Debug\net8.0\tpPOO-FootballTeam-1302.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-FootballTeam-1302\obj\Debug\net8.0\tpPOO-FootballTeam-1302.AssemblyInfoInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-FootballTeam-1302\obj\Debug\net8.0\tpPOO-FootballTeam-1302.AssemblyInfo.cs
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-FootballTeam-1302\obj\Debug\net8.0\tpPOO-FootballTeam-1302.csproj.CoreCompileInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-FootballTeam-1302\obj\Debug\net8.0\tpPOO-FootballTeam-1302.sourcelink.json
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-FootballTeam-1302\bin\Debug\net8.0\tpPOO-FootballTeam-1302.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-FootballTeam-1302\bin\Debug\net8.0\tpPOO-FootballTeam-1302.deps.json
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-FootballTeam-1302\bin\Debug\net8.0\tpPOO-FootballTeam-1302.runtimeconfig.json
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-FootballTeam-1302\bin\Debug\net8.0\tpPOO-FootballTeam-1302.dll
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-FootballTeam-1302\bin\Debug\net8.0\tpPOO-FootballTeam-1302.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-FootballTeam-1302\obj\Debug\net8.0\tpPOO-FootballTeam-1302.dll
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-FootballTeam-1302\obj\Debug\net8.0\refint\tpPOO-FootballTeam-1302.dll
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-FootballTeam-1302\obj\Debug\net8.0\tpPOO-FootballTeam-1302.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-FootballTeam-1302\obj\Debug\net8.0\tpPOO-FootballTeam-1302.genruntimeconfig.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpPOO-FootballTeam-1302\obj\Debug\net8.0\ref\tpPOO-FootballTeam-1302.dll
