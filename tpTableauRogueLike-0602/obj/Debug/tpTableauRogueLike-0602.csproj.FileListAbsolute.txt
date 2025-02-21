@@ -1,7 +1,0 @@
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpTableauRogueLike-0602\bin\Debug\tpTableauRogueLike-0602.exe.config
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpTableauRogueLike-0602\bin\Debug\tpTableauRogueLike-0602.exe
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpTableauRogueLike-0602\bin\Debug\tpTableauRogueLike-0602.pdb
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpTableauRogueLike-0602\obj\Debug\tpTableauRogueLike-0602.csproj.AssemblyReference.cache
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpTableauRogueLike-0602\obj\Debug\tpTableauRogueLike-0602.csproj.CoreCompileInputs.cache
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpTableauRogueLike-0602\obj\Debug\tpTableauRogueLike-0602.exe
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpTableauRogueLike-0602\obj\Debug\tpTableauRogueLike-0602.pdb
