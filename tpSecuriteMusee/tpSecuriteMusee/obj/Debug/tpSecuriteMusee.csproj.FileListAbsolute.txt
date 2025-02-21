@@ -1,7 +1,0 @@
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpSecuriteMusee\tpSecuriteMusee\obj\Debug\tpSecuriteMusee.csproj.AssemblyReference.cache
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpSecuriteMusee\tpSecuriteMusee\obj\Debug\tpSecuriteMusee.csproj.CoreCompileInputs.cache
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpSecuriteMusee\tpSecuriteMusee\bin\Debug\tpSecuriteMusee.exe.config
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpSecuriteMusee\tpSecuriteMusee\bin\Debug\tpSecuriteMusee.exe
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpSecuriteMusee\tpSecuriteMusee\bin\Debug\tpSecuriteMusee.pdb
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpSecuriteMusee\tpSecuriteMusee\obj\Debug\tpSecuriteMusee.exe
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpSecuriteMusee\tpSecuriteMusee\obj\Debug\tpSecuriteMusee.pdb
