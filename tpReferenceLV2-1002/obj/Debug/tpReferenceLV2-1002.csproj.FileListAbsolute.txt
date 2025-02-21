@@ -1,7 +1,0 @@
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpReferenceLV2-1002\obj\Debug\tpReferenceLV2-1002.csproj.AssemblyReference.cache
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpReferenceLV2-1002\obj\Debug\tpReferenceLV2-1002.csproj.CoreCompileInputs.cache
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpReferenceLV2-1002\bin\Debug\tpReferenceLV2-1002.exe.config
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpReferenceLV2-1002\bin\Debug\tpReferenceLV2-1002.exe
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpReferenceLV2-1002\bin\Debug\tpReferenceLV2-1002.pdb
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpReferenceLV2-1002\obj\Debug\tpReferenceLV2-1002.exe
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpReferenceLV2-1002\obj\Debug\tpReferenceLV2-1002.pdb
