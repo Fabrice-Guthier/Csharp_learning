@@ -1,7 +1,0 @@
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpTableaux0502\tpTableaux0502\bin\Debug\tpTableaux0502.exe.config
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpTableaux0502\tpTableaux0502\bin\Debug\tpTableaux0502.exe
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpTableaux0502\tpTableaux0502\bin\Debug\tpTableaux0502.pdb
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpTableaux0502\tpTableaux0502\obj\Debug\tpTableaux0502.csproj.AssemblyReference.cache
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpTableaux0502\tpTableaux0502\obj\Debug\tpTableaux0502.csproj.CoreCompileInputs.cache
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpTableaux0502\tpTableaux0502\obj\Debug\tpTableaux0502.exe
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpTableaux0502\tpTableaux0502\obj\Debug\tpTableaux0502.pdb
