@@ -1,7 +1,0 @@
-E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\tpDictionnaireLangues-0502\bin\Debug\tpDictionnaireLangues-0502.exe.config
-E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\tpDictionnaireLangues-0502\bin\Debug\tpDictionnaireLangues-0502.exe
-E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\tpDictionnaireLangues-0502\bin\Debug\tpDictionnaireLangues-0502.pdb
-E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\tpDictionnaireLangues-0502\obj\Debug\tpDictionnaireLangues-0502.csproj.AssemblyReference.cache
-E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\tpDictionnaireLangues-0502\obj\Debug\tpDictionnaireLangues-0502.csproj.CoreCompileInputs.cache
-E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\tpDictionnaireLangues-0502\obj\Debug\tpDictionnaireLangues-0502.exe
-E:\Documents\Perpaynes\Documents\MNS\Cours\CDA\C#\Code\tpDictionnaireLangues-0502\obj\Debug\tpDictionnaireLangues-0502.pdb
