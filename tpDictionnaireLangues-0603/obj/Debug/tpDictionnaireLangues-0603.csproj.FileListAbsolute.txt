@@ -1,7 +1,0 @@
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpDictionnaireLangues-0603\obj\Debug\tpDictionnaireLangues-0603.csproj.AssemblyReference.cache
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpDictionnaireLangues-0603\obj\Debug\tpDictionnaireLangues-0603.csproj.CoreCompileInputs.cache
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpDictionnaireLangues-0603\bin\Debug\tpDictionnaireLangues-0603.exe.config
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpDictionnaireLangues-0603\bin\Debug\tpDictionnaireLangues-0603.exe
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpDictionnaireLangues-0603\bin\Debug\tpDictionnaireLangues-0603.pdb
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpDictionnaireLangues-0603\obj\Debug\tpDictionnaireLangues-0603.exe
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Code\tpDictionnaireLangues-0603\obj\Debug\tpDictionnaireLangues-0603.pdb
