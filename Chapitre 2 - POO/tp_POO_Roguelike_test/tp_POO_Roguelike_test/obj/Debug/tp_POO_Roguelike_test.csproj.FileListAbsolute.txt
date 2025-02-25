@@ -1,0 +1,7 @@
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Chapitre 2 - POO\tp_POO_Roguelike_test\tp_POO_Roguelike_test\bin\Debug\tp_POO_Roguelike_test.exe.config
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Chapitre 2 - POO\tp_POO_Roguelike_test\tp_POO_Roguelike_test\bin\Debug\tp_POO_Roguelike_test.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Chapitre 2 - POO\tp_POO_Roguelike_test\tp_POO_Roguelike_test\bin\Debug\tp_POO_Roguelike_test.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Chapitre 2 - POO\tp_POO_Roguelike_test\tp_POO_Roguelike_test\obj\Debug\tp_POO_Roguelike_test.csproj.AssemblyReference.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Chapitre 2 - POO\tp_POO_Roguelike_test\tp_POO_Roguelike_test\obj\Debug\tp_POO_Roguelike_test.csproj.CoreCompileInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Chapitre 2 - POO\tp_POO_Roguelike_test\tp_POO_Roguelike_test\obj\Debug\tp_POO_Roguelike_test.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Chapitre 2 - POO\tp_POO_Roguelike_test\tp_POO_Roguelike_test\obj\Debug\tp_POO_Roguelike_test.pdb
