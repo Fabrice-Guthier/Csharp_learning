@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|c:\\users\\perpa\\documents\\mns\\cours\\cda\\c#\\csharp_learning\\chapitre 2 - poo\\tp_poo_roguelike_test\\tp_poo_roguelike_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|solutionrelative:tp_poo_roguelike_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_poo_roguelike_test\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|solutionrelative:tp_poo_roguelike_test\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_poo_roguelike_test\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|solutionrelative:tp_poo_roguelike_test\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_poo_roguelike_test\\monsterencouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|solutionrelative:tp_poo_roguelike_test\\monsterencouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_poo_roguelike_test\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|solutionrelative:tp_poo_roguelike_test\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_poo_roguelike_test\\encounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|solutionrelative:tp_poo_roguelike_test\\encounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_poo_roguelike_test\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|solutionrelative:tp_poo_roguelike_test\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_poo_roguelike_test\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|solutionrelative:tp_poo_roguelike_test\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_poo_roguelike_test\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E375AB-BAFE-4F3E-BDE2-A1B560ADAAB3}|tp_POO_Roguelike_test\\tp_POO_Roguelike_test.csproj|solutionrelative:tp_poo_roguelike_test\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dungeon.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\Dungeon.cs",
+              "RelativeDocumentMoniker": "tp_POO_Roguelike_test\\Dungeon.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\Dungeon.cs",
+              "RelativeToolTip": "tp_POO_Roguelike_test\\Dungeon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:49:50.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\Room.cs",
+              "RelativeDocumentMoniker": "tp_POO_Roguelike_test\\Room.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\Room.cs",
+              "RelativeToolTip": "tp_POO_Roguelike_test\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:49:22.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MonsterEncouter.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\MonsterEncouter.cs",
+              "RelativeDocumentMoniker": "tp_POO_Roguelike_test\\MonsterEncouter.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\MonsterEncouter.cs",
+              "RelativeToolTip": "tp_POO_Roguelike_test\\MonsterEncouter.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wCQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:47:06.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Trap.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\Trap.cs",
+              "RelativeDocumentMoniker": "tp_POO_Roguelike_test\\Trap.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\Trap.cs",
+              "RelativeToolTip": "tp_POO_Roguelike_test\\Trap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:46:06.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Encounter.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\Encounter.cs",
+              "RelativeDocumentMoniker": "tp_POO_Roguelike_test\\Encounter.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\Encounter.cs",
+              "RelativeToolTip": "tp_POO_Roguelike_test\\Encounter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:45:48.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\Monster.cs",
+              "RelativeDocumentMoniker": "tp_POO_Roguelike_test\\Monster.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\Monster.cs",
+              "RelativeToolTip": "tp_POO_Roguelike_test\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:45:29.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\Player.cs",
+              "RelativeDocumentMoniker": "tp_POO_Roguelike_test\\Player.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\Player.cs",
+              "RelativeToolTip": "tp_POO_Roguelike_test\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:44:29.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\Character.cs",
+              "RelativeDocumentMoniker": "tp_POO_Roguelike_test\\Character.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\Character.cs",
+              "RelativeToolTip": "tp_POO_Roguelike_test\\Character.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:44:06.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\Program.cs",
+              "RelativeDocumentMoniker": "tp_POO_Roguelike_test\\Program.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Chapitre 2 - POO\\tp_POO_Roguelike_test\\tp_POO_Roguelike_test\\Program.cs",
+              "RelativeToolTip": "tp_POO_Roguelike_test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:43:26.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+2025-02-25T10:31:52.0035626+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.4.3+c252b64ad913ea9411fc5d17bfd5580d2d061497
+2025-02-25T10:31:52.0213691+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-02-25T10:31:52.0224834+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-02-25T10:31:52.0224875+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 10:31:51.977
+2025-02-25T10:31:52.0240127+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 34204
+2025-02-25T10:31:52.0241786+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 8.0.13
+2025-02-25T10:31:52.0241955+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.13\System.Private.CoreLib.dll
+2025-02-25T10:31:52.0242032+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-02-25T10:31:52.0242060+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\Calculatrice\Calculatrice.UnitTests\bin\Debug\net8.0\Calculatrice.UnitTests.dll
+2025-02-25T10:31:52.0244025+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\Calculatrice\Calculatrice.UnitTests\bin\Debug\net8.0\Log --results-directory C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\Calculatrice\TestResults --client-port 36947'
+2025-02-25T10:31:52.0255532+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-02-25T10:31:52.0493784+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-02-25T10:31:52.0532426+00:00 Microsoft.Testing.Platform.Configurations.JsonConfigurationSource+JsonConfigurationProvider INFORMATION Config file 'C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\Calculatrice\Calculatrice.UnitTests\bin\Debug\net8.0\Calculatrice.UnitTests.testconfig.json' not found.
+2025-02-25T10:31:52.0545448+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-02-25T10:31:52.2013012+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTest.Sdk' Version: '3.6.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-02-25T10:31:52.2933186+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter INFORMATION Parallélisation des tests activée pour C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\Calculatrice\Calculatrice.UnitTests\bin\Debug\net8.0\Calculatrice.UnitTests.dll (Workers : 12, Étendue : MethodLevel).

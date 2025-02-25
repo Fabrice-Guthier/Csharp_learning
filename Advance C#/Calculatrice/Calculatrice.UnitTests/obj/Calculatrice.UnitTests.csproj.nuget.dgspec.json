@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice.UnitTests\\Calculatrice.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice.UnitTests\\Calculatrice.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice.UnitTests\\Calculatrice.UnitTests.csproj",
+        "projectName": "Calculatrice.UnitTests",
+        "projectPath": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice.UnitTests\\Calculatrice.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\perpa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\perpa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice\\Calculatrice.csproj": {
+                "projectPath": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice\\Calculatrice.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.4, )",
+              "versionOverride": "[3.6.4, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.6.4, )",
+              "versionOverride": "[3.6.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.6.4, )",
+              "versionOverride": "[3.6.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )",
+              "versionOverride": "[17.11.1, )"
+            },
+            "Microsoft.Testing.Extensions.CodeCoverage": {
+              "target": "Package",
+              "version": "[17.13.1, )",
+              "versionOverride": "[17.13.1, )"
+            },
+            "Microsoft.Testing.Extensions.TrxReport": {
+              "target": "Package",
+              "version": "[1.4.3, )",
+              "versionOverride": "[1.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice\\Calculatrice.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice\\Calculatrice.csproj",
+        "projectName": "Calculatrice",
+        "projectPath": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice\\Calculatrice.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

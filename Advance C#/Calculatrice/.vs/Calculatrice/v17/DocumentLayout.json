@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7CC61A-7672-4423-990B-7A77A9DAA1B9}|Calculatrice.UnitTests\\Calculatrice.UnitTests.csproj|c:\\users\\perpa\\documents\\mns\\cours\\cda\\c#\\csharp_learning\\advance c#\\calculatrice\\calculatrice.unittests\\testcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7CC61A-7672-4423-990B-7A77A9DAA1B9}|Calculatrice.UnitTests\\Calculatrice.UnitTests.csproj|solutionrelative:calculatrice.unittests\\testcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E557767-CF57-4E08-976E-9E19AC297A58}|Calculatrice\\Calculatrice.csproj|C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\calculatrice\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E557767-CF57-4E08-976E-9E19AC297A58}|Calculatrice\\Calculatrice.csproj|solutionrelative:calculatrice\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7CC61A-7672-4423-990B-7A77A9DAA1B9}|Calculatrice.UnitTests\\Calculatrice.UnitTests.csproj|c:\\users\\perpa\\documents\\mns\\cours\\cda\\c#\\csharp_learning\\advance c#\\calculatrice\\calculatrice.unittests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7CC61A-7672-4423-990B-7A77A9DAA1B9}|Calculatrice.UnitTests\\Calculatrice.UnitTests.csproj|solutionrelative:calculatrice.unittests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E557767-CF57-4E08-976E-9E19AC297A58}|Calculatrice\\Calculatrice.csproj|C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\calculatrice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E557767-CF57-4E08-976E-9E19AC297A58}|Calculatrice\\Calculatrice.csproj|solutionrelative:calculatrice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice.UnitTests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "Calculatrice.UnitTests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice.UnitTests\\MSTestSettings.cs",
+              "RelativeToolTip": "Calculatrice.UnitTests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:55:40.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice.UnitTests\\TestCalculator.cs",
+              "RelativeDocumentMoniker": "Calculatrice.UnitTests\\TestCalculator.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice.UnitTests\\TestCalculator.cs",
+              "RelativeToolTip": "Calculatrice.UnitTests\\TestCalculator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:55:54.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculatrice\\Calculator.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice\\Calculator.cs",
+              "RelativeToolTip": "Calculatrice\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:50:53.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice\\Program.cs",
+              "RelativeDocumentMoniker": "Calculatrice\\Program.cs",
+              "ToolTip": "C:\\Users\\perpa\\Documents\\MNS\\Cours\\CDA\\C#\\Csharp_learning\\Advance C#\\Calculatrice\\Calculatrice\\Program.cs",
+              "RelativeToolTip": "Calculatrice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:50:27.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
