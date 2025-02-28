@@ -1,0 +1,14 @@
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\tp_POO_Delegates_Calendar\tp_POO_Delegates_Calendar\bin\Debug\tp_POO_Delegates_Calendar.exe.config
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\tp_POO_Delegates_Calendar\tp_POO_Delegates_Calendar\bin\Debug\tp_POO_Delegates_Calendar.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\tp_POO_Delegates_Calendar\tp_POO_Delegates_Calendar\bin\Debug\tp_POO_Delegates_Calendar.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\tp_POO_Delegates_Calendar\tp_POO_Delegates_Calendar\obj\Debug\tp_POO_Delegates_Calendar.csproj.AssemblyReference.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\tp_POO_Delegates_Calendar\tp_POO_Delegates_Calendar\obj\Debug\tp_POO_Delegates_Calendar.csproj.CoreCompileInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\tp_POO_Delegates_Calendar\tp_POO_Delegates_Calendar\obj\Debug\tp_POO_Delegates_Calendar.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\tp_POO_Delegates_Calendar\tp_POO_Delegates_Calendar\obj\Debug\tp_POO_Delegates_Calendar.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Chapitre 2 - POO\tp_POO_Delegates_Calendar\tp_POO_Delegates_Calendar\bin\Debug\tp_POO_Delegates_Calendar.exe.config
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Chapitre 2 - POO\tp_POO_Delegates_Calendar\tp_POO_Delegates_Calendar\bin\Debug\tp_POO_Delegates_Calendar.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Chapitre 2 - POO\tp_POO_Delegates_Calendar\tp_POO_Delegates_Calendar\bin\Debug\tp_POO_Delegates_Calendar.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Chapitre 2 - POO\tp_POO_Delegates_Calendar\tp_POO_Delegates_Calendar\obj\Debug\tp_POO_Delegates_Calendar.csproj.AssemblyReference.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Chapitre 2 - POO\tp_POO_Delegates_Calendar\tp_POO_Delegates_Calendar\obj\Debug\tp_POO_Delegates_Calendar.csproj.CoreCompileInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Chapitre 2 - POO\tp_POO_Delegates_Calendar\tp_POO_Delegates_Calendar\obj\Debug\tp_POO_Delegates_Calendar.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Chapitre 2 - POO\tp_POO_Delegates_Calendar\tp_POO_Delegates_Calendar\obj\Debug\tp_POO_Delegates_Calendar.pdb
