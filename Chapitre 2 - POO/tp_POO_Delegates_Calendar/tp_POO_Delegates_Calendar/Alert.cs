@@ -6,13 +6,19 @@ using System.Threading.Tasks;
 
 namespace tp_POO_Delegates_Calendar
 {
+    // Définition de la classe Alert
     class Alert
     {
         public string Message { get; set; }
-
-        public Alert(string message)
+        // Propriété message
+        public Alert(string message) 
+        { 
+            Message = message ?? throw new ArgumentNullException(nameof(message));
+        }
+        // Méthode statique pour afficher le message d'alerte
+        public void DisplayMessage()
         {
-            Message = message;
+            Console.WriteLine(Message);
         }
     }
 }
