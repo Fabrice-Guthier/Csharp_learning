@@ -1,7 +1,0 @@
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\FizzBuzz_25-02\FizzBuzz_25-02\bin\Debug\FizzBuzz_25-02.exe.config
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\FizzBuzz_25-02\FizzBuzz_25-02\bin\Debug\FizzBuzz_25-02.exe
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\FizzBuzz_25-02\FizzBuzz_25-02\bin\Debug\FizzBuzz_25-02.pdb
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\FizzBuzz_25-02\FizzBuzz_25-02\obj\Debug\FizzBuzz_25-02.csproj.AssemblyReference.cache
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\FizzBuzz_25-02\FizzBuzz_25-02\obj\Debug\FizzBuzz_25-02.csproj.CoreCompileInputs.cache
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\FizzBuzz_25-02\FizzBuzz_25-02\obj\Debug\FizzBuzz_25-02.exe
-C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\FizzBuzz_25-02\FizzBuzz_25-02\obj\Debug\FizzBuzz_25-02.pdb
