@@ -10,7 +10,7 @@ namespace TP_Calendar_with_Args
     {
         static void Main(string[] args)
         {
-            Calendar calendar = new Calendar(2025, Month.Janvier, 1, DayName.Lundi);
+            Calendar calendar = new Calendar(2025, Month.Janvier, 1, DayName.Mercredi);
 
             AlertOnSpecificDay alertOnFriday13th = new AlertOnSpecificDay("On est Vendredi 13!", 13, DayName.Vendredi);
             calendar.OnNextDay += alertOnFriday13th.DisplayMessage;
@@ -31,7 +31,7 @@ namespace TP_Calendar_with_Args
             calendar.OnNextDay += alertOn14thJuly.DisplayMessage;
 
 
-            for (int i = 0; i < 730; i++)
+            for (int i = 0; i < 3650; i++)
             {
                 calendar.NextDay();
                 Console.WriteLine(calendar);

@@ -56,8 +56,11 @@ namespace TP_Calendar_with_Args
             }
             // Incrémenter le numéro du jour
             DayNumber++;
+            // Vérifier si l'année est bissextile
+            bool isLeapYear = (Year % 4 == 0 && Year % 100 != 0) || (Year % 400 == 0);
             // Si le numéro du jour dépasse le dernier jour du mois, réinitialiser à 1 et passer au mois suivant
-            if ((DayNumber > 28 && Month == Month.Février) || 
+            if ((DayNumber > 28 && Month == Month.Février && !isLeapYear) ||
+                (DayNumber > 29 && Month == Month.Février && isLeapYear) ||
                 (DayNumber > 30 && (Month == Month.Avril || Month == Month.Juin || Month == Month.Septembre || Month == Month.Novembre)) ||
                 (DayNumber > 31 && (Month == Month.Janvier || Month == Month.Mars || Month == Month.Mai || Month == Month.Juillet || Month == Month.Août || Month == Month.Octobre || Month == Month.Décembre)))
             {
