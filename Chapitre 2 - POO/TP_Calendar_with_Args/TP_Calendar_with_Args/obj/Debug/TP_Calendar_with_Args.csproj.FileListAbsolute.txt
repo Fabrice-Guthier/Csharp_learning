@@ -1,0 +1,7 @@
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\TP_Calendar_with_Args\TP_Calendar_with_Args\obj\Debug\TP_Calendar_with_Args.csproj.AssemblyReference.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\TP_Calendar_with_Args\TP_Calendar_with_Args\obj\Debug\TP_Calendar_with_Args.csproj.CoreCompileInputs.cache
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\TP_Calendar_with_Args\TP_Calendar_with_Args\bin\Debug\TP_Calendar_with_Args.exe.config
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\TP_Calendar_with_Args\TP_Calendar_with_Args\bin\Debug\TP_Calendar_with_Args.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\TP_Calendar_with_Args\TP_Calendar_with_Args\bin\Debug\TP_Calendar_with_Args.pdb
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\TP_Calendar_with_Args\TP_Calendar_with_Args\obj\Debug\TP_Calendar_with_Args.exe
+C:\Users\perpa\Documents\MNS\Cours\CDA\C#\Csharp_learning\Advance C#\TP_Calendar_with_Args\TP_Calendar_with_Args\obj\Debug\TP_Calendar_with_Args.pdb
